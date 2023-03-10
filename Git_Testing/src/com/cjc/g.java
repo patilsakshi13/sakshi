@@ -17,7 +17,7 @@ public class g
 	}
 	public void m2()
 	{
-		
+		System.out.println("vcsadhghg");
 		System.out.println("vcsadhghg");
 	}
 
